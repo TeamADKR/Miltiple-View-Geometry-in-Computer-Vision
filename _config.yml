@@ -1,5 +1,5 @@
 # Conversion
-markdown: kramdown
+kramdown:
   math_engine: mathjax
 
 theme: jekyll-theme-cayman
