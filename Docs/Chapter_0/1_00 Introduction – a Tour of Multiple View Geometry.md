@@ -12,4 +12,4 @@
 10. The reward II video augmentation
 
 
-[메인 페이지로 이동](https://teamadkr.github.io/Miltiple-View-Geometry-in-Computer-Vision/)
+[Go to Main Page](https://teamadkr.github.io/Miltiple-View-Geometry-in-Computer-Vision/)
