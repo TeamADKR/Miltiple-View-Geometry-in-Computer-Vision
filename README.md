@@ -4,7 +4,7 @@
 ## 목차
 **Introduction**
 
-1. [Introduction – a Tour of Multiple View Geometry](https://github.com/TeamADKR/Multiview_Geometry/blob/master/Docs/Chapter_0/1_00%20Introduction%20%E2%80%93%20a%20Tour%20of%20Multiple%20View%20Geometry.md)
+1. [Introduction – a Tour of Multiple View Geometry](https://teamadkr.github.io/Multiview_Geometry/Docs/Chapter_0/1_00%20Introduction%20%E2%80%93%20a%20Tour%20of%20Multiple%20View%20Geometry)
 
 **PART 0: The Background: Projective Geometry, Transformations and Estimation**
 
