@@ -1,5 +1,3 @@
-<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script>
-
 ## Contents
 
 1. [Introduction – the ubiquitous projective geometry](https://teamadkr.github.io/Miltiple-View-Geometry-in-Computer-Vision/Docs/Chapter_1/1_01%20Introduction%20%E2%80%93%20the%20ubiquitous%20projective%20geometry)
