@@ -13,4 +13,4 @@
 
 ## Page
 - Go to Next Page
-- [Go to Main Page](https://teamadkr.github.io/Miltiple-View-Geometry-in-Computer-Vision/)
+- Go to Main Page

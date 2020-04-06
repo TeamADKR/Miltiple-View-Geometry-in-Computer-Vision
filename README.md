@@ -4,7 +4,7 @@
 ## Contents
 **Introduction**
 
-1. [Introduction – a Tour of Multiple View Geometry](https://teamadkr.github.io/Miltiple-View-Geometry-in-Computer-Vision/Docs/Chapter_1/1_00%20Introduction%20%E2%80%93%20a%20Tour%20of%20Multiple%20View%20Geometry)
+1. Introduction – a Tour of Multiple View Geometry
 
 **PART 0: The Background: Projective Geometry, Transformations and Estimation**
 
