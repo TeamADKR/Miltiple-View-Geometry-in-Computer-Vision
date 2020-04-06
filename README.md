@@ -1,5 +1,5 @@
 ## 소개
-컴퓨터비전 관련 분야인 영상 기하학의 바이블 **Multiple View Geometry in Computer Vision** 위키입니다.
+컴퓨터비전 관련 분야인 영상 기하학의 바이블 **Multiple View Geometry in Computer Vision** 공부 노트 입니다. 컴퓨터비전을 공부하는 많은 분들께 도움이 되면 좋겠습니다.
 
 ## 목차
 **Introduction**
