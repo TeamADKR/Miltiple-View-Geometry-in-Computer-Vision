@@ -1,37 +1,52 @@
-## Welcome to GitHub Pages
+## 소개
+컴퓨터비전 관련 분야인 영상 기하학의 바이블 **Multiple View Geometry in Computer Vision** 위키입니다.
 
-You can use the [editor on GitHub](https://github.com/TeamADKR/Multiview_Geometry/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## 목차
+**Introduction**
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+1. Introduction – a Tour of Multiple View Geometry
 
-### Markdown
+**PART 0: The Background: Projective Geometry, Transformations and Estimation**
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+2. Projective Geometry and Transformations of 2D
+3. Projective Geometry and Transformations of 3D
+4. Estimation – 2D Projective Transformations
+5. Algorithm Evaluation and Error Analysis
 
-```markdown
-Syntax highlighted code block
+**PART I: Camera Geometry and Single View Geometry**
 
-# Header 1
-## Header 2
-### Header 3
+6. Camera Models
+7. Computation of the Camera Matrix P
+8. More Single View Geometry
 
-- Bulleted
-- List
+**PART II: Two-View Geometry**
 
-1. Numbered
-2. List
+9. Epipolar Geometry and the Fundamental Matrix
+10. 3D Reconstruction of Cameras and Structure
+11. Computation of the Fundamental Matrix F
+12. Structure Computation
+13. Scene planes and homographies
+14. Affine Epipolar Geometry
 
-**Bold** and _Italic_ and `Code` text
+**PART III: Three-View Geometry**
 
-[Link](url) and ![Image](src)
-```
+15. The Trifocal Tensor
+16. Computation of the Trifocal Tensor T
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+**PART IV: N-View Geometry**
 
-### Jekyll Themes
+17. N-Linearities and Multiple View Tensors
+18. N-View Computational Methods
+19. Auto-Calibration
+20. Duality
+21. Cheirality
+22. Degenerate Configurations
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/TeamADKR/Multiview_Geometry/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+**PART V : Appendices**
+1. Tensor Notation
+2. Gaussian (Normal) and χ2 Distributions
+3. Parameter Estimation
+4. Matrix Properties and Decompositions
+5. Least-squares Minimization
+6. Iterative Estimation Methods
+7. Some Special Plane Projective Transformations
